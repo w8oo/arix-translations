@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'console' => 'Console',
-    'node-under-maintenance' => 'The node of this server is currently under maintenance and all actions are unavailable.',
-    'running-installation-process' => 'This server is currently running its installation process and most actions are unavailable.',
-    'being-transferred' => 'This server is currently being transferred to another node and all actions are unavailable.',
-    'type-a-command' => 'Type a command...',
+    'console' => 'وحدة التحكم',
+    'node-under-maintenance' => 'العقدة التابعة لهذا الخادم تخضع حاليًا للصيانة وجميع الإجراءات غير متاحة.',
+    'running-installation-process' => 'يعمل هذا الخادم حاليًا على عملية التثبيت الخاصة به ومعظم الإجراءات غير متاحة.',
+    'being-transferred' => 'يتم نقل هذا الخادم حاليًا إلى عقدة أخرى وجميع الإجراءات غير متاحة.',
+    'type-a-command' => 'اكتب أمرًا...',
 ];
