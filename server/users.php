@@ -1,32 +1,32 @@
 <?php
 
 return [
-    'title' => 'Users',
-    'manage-subusers' => 'Manage subusers',
-    'new-user' => 'New user',
+    'title' => 'المستخدمين',
+    'manage-subusers' => 'إدارة المستخدمين الفرعيين',
+    'new-user' => 'مستخدم جديد',
 
-    'no-users' => 'It looks like you don\'t have any subusers.',
+    'no-users' => 'يبدو أنه ليس لديك أي مستخدمين فرعيين.',
 
-    'name' => 'Name',
-    'email' => 'Email',
-    '2FA-enabled' => '2FA Enabled',
-    'creation-date' => 'Creation date',
-    'modify-permissions' => 'Modify permissions',
+    'name' => 'اسم',
+    'email' => 'البريد إلكتروني',
+    '2FA-enabled' => '2FA تمكين',
+    'creation-date' => 'تاريخ الإنشاء',
+    'modify-permissions' => 'تعديل الأذونات',
 
-    'user-email' => 'User Email',
-    'user-email-description' => 'Enter the email address of the user you wish to invite as a subuser for this server.',
+    'user-email' => 'البريد الالكتروني للمستخدم',
+    'user-email-description' => 'أدخل عنوان البريد الإلكتروني للمستخدم الذي ترغب في دعوته كمستخدم فرعي لهذا الخادم.',
 
-    'modify-permissions-for' => 'Modify permissions for',
-    'view-permissions-for' => 'View permissions for',
-    'create-new-subuser' => 'Create new subuser',
-    'must-not-exceed' => 'Email addresses must not exceed 191 characters.',
-    'valid-email' => 'A valid email address must be provided.',
-    'save' => 'Save',
-    'invite-user' => 'Invite User',
+    'modify-permissions-for' => 'تعديل الصلاحيات لـ',
+    'view-permissions-for' => 'عرض الصلاحيات لـ',
+    'create-new-subuser' => 'إنشاء مستخدم فرعي جديد',
+    'must-not-exceed' => 'يجب ألا تتجاوز عناوين البريد الإلكتروني 191 حرفًا.',
+    'valid-email' => 'يجب توفير عنوان بريد إلكتروني صحيح.',
+    'save' => 'حفظ',
+    'invite-user' => 'دعوة مستخدم',
 
-    'only-permissions-you-assigned' => 'Only permissions which your account is currently assigned may be selected when creating or modifying other users.',
+    'only-permissions-you-assigned' => 'يمكن تحديد صلاحيات التي تم تعيينها لحسابك حاليًا عند إنشاء أو تعديل مستخدمين آخرين.',
 
-    'delete-this-subuser' => 'Delete this subuser?',
-    'yes-remove' => 'Yes, remove subuser',
-    'are-you-sure-to-remove' => 'Are you sure you wish to remove this subuser? They will have all access to this server revoked immediately.'
+    'delete-this-subuser' => 'حذف هذا المستخدم الفرعي؟',
+    'yes-remove' => 'نعم، قم بإزالة المستخدم الفرعي',
+    'are-you-sure-to-remove' => 'هل أنت متأكد أنك تريد إزالة هذا المستخدم الفرعي؟ سيتم سحب جميع صلاحياته فورًا.'
 ];
