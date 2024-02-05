@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'account-activity-log' => 'Account Activity Log',
-    'activity-log' => 'Activity Log',
-    'clear-filters' => 'Clear Filters',
-    'metadata' => 'Metadata',
-    'close' => 'Close',
-    'no-logs-server' => 'No activity logs available for this server.'
+    'account-activity-log' => 'سجل نشاط الحساب',
+    'activity-log' => 'سجل النشاط',
+    'clear-filters' => 'مسح التصفيات',
+    'metadata' => 'البيانات الوصفية',
+    'close' => 'اغلاق',
+    'no-logs-server' => 'لا توجد سجلات نشاط متاحة لهذا الخادم.'
 ];
