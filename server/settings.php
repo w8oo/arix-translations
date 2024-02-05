@@ -1,37 +1,37 @@
 <?php
 
 return [
-    'settings' => 'Settings',
+'settings' => 'الإعدادات',
 
-    'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
-        'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
-    ],
+'sftp' => [
+    'title' => 'تفاصيل SFTP',
+    'server-address' => 'عنوان الخادم',
+    'username' => 'اسم المستخدم',
+    'description' => 'كلمة مرور SFTP هي نفس كلمة المرور التي تستخدمها للوصول إلى لوحة التحكم هذه.',
+    'launch-sftp' => 'تشغيل SFTP',
+],
 
-    'rename' => [
-        'title' => 'Change Server Details',
-        'server-name' => 'Server Name',
-        'server-description' => 'Server Description',
-        'save' => 'Save',
-    ],
+'rename' => [
+    'title' => 'تغيير تفاصيل الخادم',
+    'server-name' => 'اسم الخادم',
+    'server-description' => 'وصف الخادم',
+    'save' => 'حفظ',
+],
 
-    'debug' => [
-        'title' => 'Debug Information',
-        'node' => 'Node',
-        'server-id' => 'Server ID',
-    ],
+'debug' => [
+    'title' => 'معلومات التصحيح',
+    'node' => 'العقدة',
+    'server-id' => 'معرف الخادم',
+],
 
-    'reinstall' => [
-        'title' => 'Reinstall Server',
-        'reinstall-started' => 'Your server has begun the reinstallation process.',
-        'confirm-reinstallation' => 'Confirm server reinstallation',
-        'yes-reinstall' => 'Yes, reinstall server',
-        'are-you-sure' => 'Your server will be stopped and some files may be deleted or modified during this process, are you sure you wish to continue?',
-        'desc-1' => 'Reinstalling your server will stop it, and then re-run the installation script that initially set it up.',
-        'desc-2' => 'Some files may be deleted or modified during this process, please back up your data before continuing.',
-        'reinstall-server' => 'Reinstall Server',
-    ],
+'reinstall' => [
+    'title' => 'إعادة تثبيت الخادم',
+    'reinstall-started' => 'بدأت عملية إعادة تثبيت الخادم الخاص بك.',
+    'confirm-reinstallation' => 'تأكيد إعادة تثبيت الخادم',
+    'yes-reinstall' => 'نعم، إعادة تثبيت الخادم',
+    'are-you-sure' => 'سيتم إيقاف تشغيل الخادم الخاص بك وقد تحذف أو تعدل بعض الملفات خلال هذه العملية، هل أنت متأكد أنك تريد المتابعة؟',
+    'desc-1' => 'سيتم إيقاف تشغيل الخادم الخاص بك ومن ثم إعادة تشغيل البرنامج التثبيت الذي قام بتعيينه أولاً.',
+    'desc-2' => 'قد يتم حذف أو تعديل بعض الملفات خلال هذه العملية، يرجى أخذ نسخة احتياطية من بياناتك قبل المتابعة.',
+    'reinstall-server' => 'إعادة تثبيت الخادم',
+],
 ];
