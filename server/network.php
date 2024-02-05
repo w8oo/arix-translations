@@ -1,18 +1,18 @@
 <?php
 
-return[
-    'network' => 'Network',
-    'manage-allocation' => 'Manage allocation',
-    'create-allocation' => 'Create Allocation',
-    'currently-using' => 'You are currently using {{current}} of {{max}} allowed allocations for this server.',
+return [
+    'network' => 'الشبكة',
+    'manage-allocation' => 'إدارة التخصيص',
+    'create-allocation' => 'إنشاء تخصيص',
+    'currently-using' => 'أنت تستخدم حاليًا {{current}} من {{max}} التخصيصات المسموح بها لهذا الخادم.',
 
-    'IP' => 'IP',
-    'port' => 'Port',
-    'notes' => 'Notes',
-    'primary' => 'Primary',
-    'make-primary' => 'Make Primary',
+    'IP' => 'عنوان IP',
+    'port' => 'منفذ',
+    'notes' => 'ملاحظات',
+    'primary' => 'أساسي',
+    'make-primary' => 'جعله الأساسي',
 
-    'remove-allocation' => 'Remove Allocation',
-    'remove-allocation-description' => 'This allocation will be immediately removed from your server.',
-    'delete' => 'Delete'
+    'remove-allocation' => 'إزالة التخصيص',
+    'remove-allocation-description' => 'سيتم إزالة هذا التخصيص فوراً من خادمك.',
+    'delete' => 'حذف'
 ];
